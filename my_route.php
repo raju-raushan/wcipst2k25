@@ -25,7 +25,7 @@
 <span class="navbar-toggler-icon"></span>
 </button>
 <a class="navbar-brand mx-auto mx-lg-0" href="index.php.html">
-<img src="../images/IEEE.png" style="width: 40px; height: 40px;">
+<img src="images/IEEE.png" style="width: 40px; height: 40px;">
 <span class="brand-text">WCIPST-25 <br/><span style="font-size:11px">Shape your vision</span></span>
 </a>
 <div class="collapse navbar-collapse" id="navbarNav">
@@ -84,7 +84,7 @@
 </div>
 </div>
 <div class="video-wrap">
-<img class="custom-video" src="../images/bg53.jpg"/>
+<img class="custom-video" src="images/bg53.jpg"/>
 </div>
 </section>
 <section class="highlight">
@@ -92,7 +92,7 @@
 <div class="row">
 <div class="col-lg-6 col-md-6 col-12">
 <div class="highlight-thumb">
-<img alt="" class="highlight-image img-fluid" src="../images/bg56.png"/>
+<img alt="" class="highlight-image img-fluid" src="images/bg56.png"/>
 <div class="highlight-info">
 <h3 class="highlight-title">Institute Highlights</h3>
 <a class="bi-youtube highlight-icon" href="watch.html"></a>
@@ -101,7 +101,7 @@
 </div>
 <div class="col-lg-6 col-md-6 col-12">
 <div class="highlight-thumb">
-<img alt="" class="highlight-image img-fluid" src="../images/bg53.jpg"/>
+<img alt="" class="highlight-image img-fluid" src="images/bg53.jpg"/>
 <div class="highlight-info">
 <h3 class="highlight-title">Institute Highlights</h3>
 <a class="bi-youtube highlight-icon" href="DArBaVbQna0.html"></a>
@@ -116,7 +116,7 @@
 <div class="row">
 <div class="col-lg-4 col-12 mt-5 mt-lg-0">
 <div>
-<img alt="" class="img-fluid college-image" src="../images/new1w.webp"/>
+<img alt="" class="img-fluid college-image" src="images/new1w.webp"/>
 </div>
 </div>
 <div class="col-lg-8 col-12">
