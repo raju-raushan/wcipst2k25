@@ -12,11 +12,11 @@
     </style>
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-<link href="../css/css2.css" rel="stylesheet"/>
-<link href="../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="../css/bootstrap-icons.css" rel="stylesheet"/>
-<link href="../css/templatemo-leadership-event.css" rel="stylesheet"/>
-<link rel="stylesheet" href="../css/about.css">
+<link href="css/css2.css" rel="stylesheet"/>
+<link href="css/bootstrap.min.css" rel="stylesheet"/>
+<link href="css/bootstrap-icons.css" rel="stylesheet"/>
+<link href="css/templatemo-leadership-event.css" rel="stylesheet"/>
+<link rel="stylesheet" href="css/about.css">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg">
