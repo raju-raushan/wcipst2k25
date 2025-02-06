@@ -22,47 +22,82 @@
 <link rel="stylesheet" href="css/about.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg">
-<div class="container-fluid">
-<button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" type="button">
-<span class="navbar-toggler-icon"></span>
-</button>
-<a class="navbar-brand mx-auto mx-lg-0" href="index.php.html">
-<img src="images/IEEE.png" style="width: 40px; height: 40px;">
-<span class="brand-text">WCCEST-25 <br/><span style="font-size:11px">Shape your vision</span></span>
-<img src="images/bg removed.png" style="width: 50px;height: 50px;">
-</a>
-<div class="collapse navbar-collapse" id="navbarNav">
-<ul class="navbar-nav ms-auto">
-<li class="nav-item">
-<a class="nav-link" href="index.html#section_1">Home</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="about.php.html">About Us</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="speaker.php.html">Speakers</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="committee.php.html">Committees</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="callforpapers.php.html">Call for papers</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="dates.php.html">Dates</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="registration.php.html">Registration</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="contact.php.html">Contact</a>
-</li>
-</ul>
-<div>
-</div>
-</div></div></nav>
-
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+        <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand mx-auto mx-lg-0" href="index.php.html">
+        <img src="images/IEEE.png" style="width: 40px; height: 40px;">
+        <span class="brand-text">WCCEST-25 <br/><span style="font-size:11px">Shape your vision</span></span>
+        <img src="images\bg removed.png" style="width: 50px;height: 50px;">
+        </a>
+        <div><pre>   </pre></div>
+        <div class="menu">
+            <div class="item">
+              <a href="#" class="link">
+                <span>Register Now</span>
+                <svg viewBox="0 0 360 360" xml:space="preserve">
+                  <g id="SVGRepo_iconCarrier">
+                    <path
+                      id="XMLID_225_"
+                      d="M325.607,79.393c-5.857-5.857-15.355-5.858-21.213,0.001l-139.39,139.393L25.607,79.393 c-5.857-5.857-15.355-5.858-21.213,0.001c-5.858,5.858-5.858,15.355,0,21.213l150.004,150c2.813,2.813,6.628,4.393,10.606,4.393 s7.794-1.581,10.606-4.394l149.996-150C331.465,94.749,331.465,85.251,325.607,79.393z"
+                    ></path>
+                  </g>
+                </svg>
+              </a>
+              <div class="submenu">
+                <div class="submenu-item">
+                  <a href="reglink.php.html" class="submenu-link">Academicians</a>
+                </div>
+                <div class="submenu-item">
+                  <a href="reglink.php.html" class="submenu-link">Researcher</a>
+                </div>
+                <div class="submenu-item">
+                  <a href="reglink.php.html" class="submenu-link">Industry Person</a>
+                </div>
+                <div class="submenu-item">
+                  <a href="reglink.php.html" class="submenu-link">IEEE Member</a>
+                </div>
+                <div class="submenu-item">
+                    <a href="reglink.php.html" class="submenu-link">Foreign Authors</a>
+                  </div>
+                  <div class="submenu-item">
+                    <a href="reglink.php.html" class="submenu-link">Non-IEEE Member</a>
+                  </div>
+              </div>
+            </div>
+          </div>
+        <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+        <a class="nav-link" href="index.html#section_1">Home</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="about.php.html">About Us</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="speaker.php.html">Speakers</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="committee.php.html">Committees</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="callforpapers.php.html">Call for papers</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="dates.php.html">Dates</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="registration.php.html">Registration</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="contact.php.html">Contact</a>
+        </li>
+        </ul>
+        <div>
+        </div>
+        </div></div></nav>
 </div>
 <div class="hero" id="section_1">
     <div>
@@ -81,49 +116,38 @@
 <div></div>
 <div id="page4">
 
- <p style="display: flex;align-items: center;color: white;justify-content: center;">September 24 - September 26, 2025</p>   
-    <!-- Countdown Timer -->
-    <div style="align-items: center;justify-content: space-between;">
-    <div class="ctimer">
-    <div id="countdown">
-        <div class="countdown-item">
-            <span id="days">0</span>
-            <p>Days</p>
-        </div>
-        <div class="countdown-item">
-            <span id="hours">0</span>
-            <p>Hours</p>
-        </div>
-        <div class="countdown-item">
-            <span id="minutes">0</span>
-            <p>Minutes</p>
-        </div>
-        <div class="countdown-item">
-            <span id="seconds">0</span>
-            <p>Seconds</p>
-        </div>
-    </div>
-
-</div>
-<div>
-<div class="visitor-counter">
-    <div class="counter-header">Total Visitors 😊</div>
-    <div class="counter-body">
-        <div class="counter-item">
-            <span class="counter-label">Today</span>
-            <span class="counter-value" id="today-count">0</span>
-        </div>
-        <div class="counter-item">
-            <span class="counter-label">Total</span>
-            <span class="counter-value" id="total-count">500</span>
-        </div>
-    </div>
-</div>
-</div>
-</div>
-<div>
-</div>
-</div>
+    <p style="display: flex;align-items: center;color: white;justify-content: center;">December 23 - December 24, 2025</p>   
+       <!-- Countdown Timer -->
+       <div style="align-items: center;justify-content: space-between;">
+       <div class="ctimer">
+       <div id="countdown">
+           <div class="countdown-item">
+               <span id="days">0</span>
+               <p>Days</p>
+           </div>
+           <div class="countdown-item">
+               <span id="hours">0</span>
+               <p>Hours</p>
+           </div>
+           <div class="countdown-item">
+               <span id="minutes">0</span>
+               <p>Minutes</p>
+           </div>
+           <div class="countdown-item">
+               <span id="seconds">0</span>
+               <p>Seconds</p>
+           </div>
+   
+       </div>
+   
+   </div>
+   <div>
+   </div>
+   </div>
+   <div>
+   </div>
+   
+   </div>
 
 </div>
 
@@ -138,18 +162,90 @@
 </div>
 </div>
 </div>
+<div style="margin-top: 20px;">
+    <div class="hero" id="section_1">
+        <div>
+    <div class="container-fluid">
+        
+    <div class="row">
+        
+    <div class="col-lg-5 col-12 m-auto">
+        
+    <div class="hero-text">
+    
+    
+    <div id="page4">
+      <div class="container">
+        <div class="item">
+            <div>
+                <a href="https://www.youtube.com/@SAGEUniversityIndore1/featured">
+                    <img src="images\youtube.png" alt="Computer Lab" style="width: 350px;height: 250px;">
+                </a>
+            </div>
+            <div>
+  
+            </div>
+        </div>
+        
+        <div class="item">
+            <div>
+                <a href="https://sageuniversity.in/">
+                    <img src="images\logo.png" alt="Computer Lab" style="width: 350px;height: 250px;"> 
+                </a>
+            </div>
+            <div>
+  
+            </div>
+        </div>
+    </div>
+    
+        <div style="align-items: center;justify-content: space-between;">
+    <div>
+    </div>
+    </div>
+    <div>
+    </div>
+  
+    </div>
+    
+    </div>
+    
+    
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="visitor-counter">
+      <div class="counter-header">Total Visitors 😊</div>
+      <div class="counter-body">
+          <div class="counter-item">
+              <span class="counter-label">Today</span>
+              <span class="counter-value" id="today-count">0</span>
+          </div>
+          <div class="counter-item">
+              <span class="counter-label">Total</span>
+              <span class="counter-value" id="total-count">500</span>
+          </div>
+      </div>
+    </div>
+    <div class="video-wrap">
+    <img class="custom-video" src="images\bg2.jpg"/>
+    
+    </div>
+    </div>
+    </div>
 </section>
 <section class="about section-padding" id="section_2">
     <div class="abimg">
         <div>
-        <img alt="" class="img-fluid college-image" src="images/new1w.webp"/>
+        <img alt="" class="img-fluid college-image" src="images\audi1.jpg"/>
     </div>
     <div>
-        <img alt="" class="img-fluid college-image" src="images/new1w.webp"/>
+        <img alt="" class="img-fluid college-image" src="images\eve.jpg"/>
     </div>
 <div>
-        <img alt="" class="img-fluid college-image" src="images/new1w.webp"/>
-    </div></div>
+        <img alt="" class="img-fluid college-image" src="images\audi3"/>
+    </div></div></div>
 <div class="container">
 <div class="row">
 <div class="col-lg-4 col-12 mt-5 mt-lg-0">
